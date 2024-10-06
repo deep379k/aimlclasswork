@@ -46,7 +46,14 @@ background: linear-gradient(to right, #3f4c6b, #606c88); /* W3C, IE 10+/ Edge, F
 } */
 h2{
     padding-top: 20px;
-    color: #c75723;
-    text-shadow: #7bdb20;
-    text-decoration: double;
+    color: #b6cc3a;
+    text-shadow: 1px 1px 4px white;
+}
+button{
+    border-radius: 19px 5px;
+    background: #4fcaba;
+}
+h3{
+    font-style: italic;
+    background: rgba(200, 223, 231, 0.849);
 }
